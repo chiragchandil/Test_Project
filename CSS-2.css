@@ -1,0 +1,16 @@
+ul{
+    background-color: brown;
+    color:azure
+}
+.main{
+    color: darkred;
+}
+.container{
+    width: 400px;
+    height: 1500px;
+    background-color: blue;
+    background-image: url('image.jpg');
+    background-size: 100px 400px ;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
